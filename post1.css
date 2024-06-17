@@ -1,9 +1,0 @@
-#textoescondido{
-    display: none;
-}
-
-#toggle-1:checked ~ #textoescondido{
-    display: block;
-    
-}
-
