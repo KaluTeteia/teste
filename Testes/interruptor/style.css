@@ -65,6 +65,6 @@ label input:checked ~ span .icon-bulb-outline{
     width: 348px;
     height: 408pxx;
     pointer-events: none;
-    background: url(bulb_off.jpg);
+    background: url(https://kaluteteia.github.io/teste/Testes/interruptor/bulb_off.jpg);
     transition: 1s;
 }
