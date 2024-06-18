@@ -59,9 +59,6 @@ label input:checked ~ span .icon-bulb-outline{
 
 .bulb{
     position: absolute;
-    top: 80px;
-    left: 50%;
-    transform: translate(-50%);
     width: 348px;
     height: 408pxx;
     pointer-events: none;
