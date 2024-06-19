@@ -5,3 +5,7 @@ body{
     height: 150vh;
     background-color: grey;
 }
+
+.birthdayCard{
+    position: relative;
+}
