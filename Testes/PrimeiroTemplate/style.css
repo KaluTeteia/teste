@@ -2,13 +2,6 @@
     appearance: none;
 }
 
-.icon-mail-outline{
-    color: crimson;
-    font-size: 35px;
-    display: flex;
-    align-items: center;
-}
-
 .aba1 p{
     display: none;
 }
