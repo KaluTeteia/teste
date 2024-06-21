@@ -1,7 +1,7 @@
 label{
-    position: absolute;
-    width: 158px;
-    height: 88px;
+    position: relative;
+    width: 150px;
+    height: 75px;
     background: #212121;
     border-radius: 10px;
 }
@@ -40,5 +40,14 @@ label span .icon-bulb-outline{
 
 label input:checked ~ span .icon-bulb-outline{
     color: white;
-    filter: drop-shadow(0 0 5px #ffff) drop-shadow(0 0 10px #fff) drop-shadow(0 0 15px #fff);
+    filter: drop-shadow(0 0 5px #fff) drop-shadow(0 0 10px #fff) drop-shadow(0 0 15px #fff);
+}
+
+.bulb{
+    position: absolute;
+    width: 348px;
+    height: 408pxx;
+    pointer-events: none;
+    background: url(https://kaluteteia.github.io/teste/Testes/interruptor/bulb_off.jpg);
+    transition: 1s;
 }
